@@ -24,7 +24,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "뉴스룸 디스패치 · 실시간 인사이트",
+  title: "실시간 뉴스를 확인해보자 · AI 인사이트",
   description: "네이버 뉴스 검색과 AI 요약·키워드·감정·주제·트렌드 분석",
 };
 

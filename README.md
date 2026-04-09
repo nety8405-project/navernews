@@ -1,5 +1,5 @@
-# 실시간 뉴스 검색 · AI 인사이트
-안녕
+# 실시간 뉴스를 확인해보자 · AI 인사이트
+
 네이버 뉴스 검색 API로 최신 기사를 가져온 뒤, OpenAI로 **요약·키워드·맥락 감정·트렌드 인사이트**를 정리하는 [Next.js](https://nextjs.org) 앱입니다. API 키는 **서버 라우트에서만** 사용하며, 저장소에는 **절대 넣지 마세요**.
 
 - **GitHub:** [github.com/nety8405-project/navernews](https://github.com/nety8405-project/navernews)

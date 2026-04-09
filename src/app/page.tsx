@@ -174,7 +174,7 @@ export default function Home() {
           <div>
             <MastheadKicker />
             <h1 className="font-display mt-4 text-[clamp(1.35rem,3.6vw,2rem)] font-normal leading-tight tracking-[-0.02em] text-[var(--ink)]">
-              실시간 <span className="text-[var(--vermillion)]">뉴스</span> 검색
+              실시간 <span className="text-[var(--vermillion)]">뉴스</span>를 확인해보자
             </h1>
             <div className="mt-6 max-w-xl">
               <div className="press-rule w-24 rounded-sm" aria-hidden />
